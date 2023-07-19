@@ -26,7 +26,7 @@
 
 ### My GitHub Contributions
 
-![](https://raw.githubusercontent.com/Cwd295645351/Cwd295645351/main/assets/github-contribution-grid-snake.svg)
+![](https://cwd295645351.github.io/Cwd295645351/github-contribution-grid-snake.svg)
 
 ### My GitHub Stats
 
