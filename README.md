@@ -6,8 +6,8 @@
 
 ## Hi, 👋 I'm Wade
 
-- 🌱 目前正在学习 `Vue3` and `Vite`
-- 📫 联系方式: cwd295645351@gmail.com
+- 🌱 目前正在学习 `Vue3` 、 `Vite` 和 `TypeScript`
+- 📫 联系方式: 295645351@qq.com
 
 ### Languaues and Tools
 
