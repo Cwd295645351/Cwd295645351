@@ -59,4 +59,4 @@ Other                      8 hrs 41 mins   ▒░░░░░░░░░░░�
 
 ### My GitHub Contributions
 
-![](./profile-3d-contrib/profile-gitblock.svg)
+![](./profile-3d-contrib/profile-green-animate.svg)
