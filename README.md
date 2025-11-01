@@ -31,16 +31,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 October 2024 - To: 30 October 2025
+From: 31 October 2024 - To: 31 October 2025
 
-Total Time: 775 hrs 51 mins
+Total Time: 774 hrs 5 mins
 
-Vue.js                     336 hrs 42 mins ███████████░░░░░░░░░░░░░░   43.40 %
-TypeScript                 263 hrs 43 mins ████████▒░░░░░░░░░░░░░░░░   33.99 %
-JavaScript                 97 hrs 36 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.58 %
-JSON                       36 hrs 22 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
-Other                      12 hrs 38 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-Markdown                   12 hrs 32 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+Vue.js                     332 hrs 55 mins ██████████▓░░░░░░░░░░░░░░   43.01 %
+TypeScript                 264 hrs 28 mins ████████▓░░░░░░░░░░░░░░░░   34.17 %
+JavaScript                 98 hrs 51 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   12.77 %
+JSON                       36 hrs 11 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+Markdown                   12 hrs 44 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+Other                      12 hrs 43 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
 ```
 
 <!--END_SECTION:waka-->
